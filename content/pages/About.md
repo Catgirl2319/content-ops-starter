@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: Registration to our Annual Plein Air Festival
         image:
           type: ImageBlock
           altText: Faux Fur Throw
