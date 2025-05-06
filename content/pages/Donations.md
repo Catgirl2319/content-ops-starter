@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: All Donations are Apretiated
+      text: All Donations are Appreciated
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
