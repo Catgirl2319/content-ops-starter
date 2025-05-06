@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: All Donations are Appreciated
       color: text-dark
-    subtitle: To Donate either click on the link or scan the qr code
+    subtitle: To Donate either click on the link or scan the QR code
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
