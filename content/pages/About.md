@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: Our Facebook Page
     text: >
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
