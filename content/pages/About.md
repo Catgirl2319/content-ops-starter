@@ -52,7 +52,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Registrant
         subtitle: Registration to our Annual Plein Air Festival
         image:
           type: ImageBlock
