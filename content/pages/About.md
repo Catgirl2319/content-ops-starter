@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Registrant
-        subtitle: Registration to our Annual Plein Air Festival
+        subtitle: ''
         actions:
           - type: Button
             label: Registrant
