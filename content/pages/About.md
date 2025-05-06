@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Our Facebook Page
+    subtitle: ''
     text: ''
     actions:
       - type: Button
