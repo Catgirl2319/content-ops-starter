@@ -52,7 +52,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Registrant
+        title: Registration to our Annual Plein Air Festival
         subtitle: ''
         actions:
           - type: Button
