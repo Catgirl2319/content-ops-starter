@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "Registration",
-    "role": "Register for Plein Air",
+    "role": "",
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
