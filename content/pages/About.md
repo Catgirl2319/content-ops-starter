@@ -81,7 +81,7 @@ sections:
         subtitle: $ 44.99 – $ 90
         actions:
           - type: Button
-            label: Get started
+            label: Vendors
             altText: ''
             url: /
             showIcon: false
