@@ -77,7 +77,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Vendors Application
+        title: Our Vendor Application
         subtitle: An Application for Vendors who want a spot on The Green
         actions:
           - type: Button
