@@ -42,56 +42,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Our Links
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    people: []
-    actions:
-      - type: Button
-        label: Registration
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    subtitle: ''
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
