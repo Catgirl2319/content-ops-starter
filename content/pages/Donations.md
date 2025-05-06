@@ -11,7 +11,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: Donate
         altText: ''
         url: >-
           /https://www.paypal.com/donate/?hosted_button_id=EDJZV9T2TMXTQ&fbclid=IwY2xjawKHDhFleHRuA2FlbQIxMABicmlkETFpYldsVVpQZ2dQaW5RTmx6AR6h_2POaLv9sVZ4lkKkMpTN-RMcauGKaPEelawl_P9KHA2VNZkiSX7rbkn1xg_aem_YZzPw-hz41boBvEdP46G6Q
