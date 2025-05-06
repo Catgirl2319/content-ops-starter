@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: The Wellsboro Art Club
       color: text-dark
       styles:
         self:
