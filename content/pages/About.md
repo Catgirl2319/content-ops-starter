@@ -83,7 +83,8 @@ sections:
           - type: Button
             label: Vendors
             altText: ''
-            url: /
+            url: >-
+              /https://form.123formbuilder.com/6829848/vendor-application-form?fbclid=IwY2xjawKHEo5leHRuA2FlbQIxMABicmlkETFpYldsVVpQZ2dQaW5RTmx6AR4yiNAgGz7bXY8_gDhX_hVJgbl8Za61vV0LBiLJW6OjqsLlS2kmlzLwrsksag_aem_k72Cugxl_9auZGHIqZ1b
             showIcon: false
             icon: arrowRight
             iconPosition: right
