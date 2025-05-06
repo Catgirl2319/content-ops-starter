@@ -45,7 +45,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Our Links
       color: text-dark
       styles:
         self:
