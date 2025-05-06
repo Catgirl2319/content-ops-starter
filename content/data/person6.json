@@ -2,18 +2,6 @@
     "type": "Person",
     "name": "Schedule",
     "role": "Times And Dates of our               Plein Air Festival",
-    "image": {
-        "altText": "Harrison Tally",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
