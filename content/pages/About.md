@@ -95,7 +95,7 @@ sections:
         subtitle: 'A Facebook page Dedicated to Plein Air '
         actions:
           - type: Button
-            label: Get started
+            label: Facebook
             altText: ''
             url: /
             showIcon: false
