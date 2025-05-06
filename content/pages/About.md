@@ -91,7 +91,7 @@ sections:
             elementId: ''
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: The Plein Air Painters Of Pennsylvania
+        title: The Plein Air Painters of Pennsylvania
         subtitle: 'A Facebook page Dedicated to Plein Air '
         actions:
           - type: Button
