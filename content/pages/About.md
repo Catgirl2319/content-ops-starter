@@ -56,7 +56,7 @@ sections:
         subtitle: Pre-Register
         actions:
           - type: Button
-            label: Registrant
+            label: Register
             altText: ''
             url: /
             showIcon: false
