@@ -8,10 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: The heart of The Wellsboro Art Club
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      A place filled with dedicated Artists of all kinds of Mediums  
     actions:
       - label: Become a Member
         altText: ''
