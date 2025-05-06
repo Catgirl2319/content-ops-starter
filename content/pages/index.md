@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: The Wellsboro Art Club
       elementId: ''
       type: ImageBlock
     elementId: ''
