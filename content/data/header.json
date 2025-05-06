@@ -43,16 +43,16 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "",
-                    "url": "",
+                    "label": "Dropdown item",
+                    "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "",
+                    "url": "",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
