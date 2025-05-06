@@ -78,7 +78,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Vendors Application
-        subtitle: ''
+        subtitle: An Application for Vendors who want a spot on The Green
         actions:
           - type: Button
             label: Vendors
