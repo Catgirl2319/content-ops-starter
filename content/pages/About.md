@@ -53,7 +53,7 @@ sections:
     people: []
     actions:
       - type: Button
-        label: Get started
+        label: Registration
         altText: ''
         url: /
         showIcon: false
