@@ -1,7 +1,7 @@
 ---
 title: ''
 slug: surround-yourself-with-right-people
-date: '2024-03-26'
+date: ''
 excerpt: >-
   Starting a business is no small feat. It’s a journey filled with challenges,
   risks, and countless decisions that can make or break your startup. One of the
