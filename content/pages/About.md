@@ -91,7 +91,7 @@ sections:
             elementId: ''
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: The Plein Air Painters
         subtitle: $117
         actions: []
         colors: bg-light-fg-dark
