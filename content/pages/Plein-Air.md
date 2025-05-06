@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Our Links
+      text: Plein Air links Links
       color: text-dark
       styles:
         self:
