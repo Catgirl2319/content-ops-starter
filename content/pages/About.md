@@ -56,7 +56,7 @@ sections:
         subtitle: ''
         actions:
           - type: Button
-            label: Get started
+            label: Registrant
             altText: ''
             url: /
             showIcon: false
