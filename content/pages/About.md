@@ -92,7 +92,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: The Plein Air Painters
-        subtitle: $117
+        subtitle: 'A Facebook page Dedicated to Plein Air '
         actions: []
         colors: bg-light-fg-dark
     actions: []
