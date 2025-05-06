@@ -50,8 +50,7 @@ sections:
       styles:
         self:
           textAlign: center
-    people:
-      - content/data/person6.json
+    people: []
     actions:
       - type: Button
         label: Get started
