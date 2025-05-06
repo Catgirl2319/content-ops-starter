@@ -57,17 +57,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
-                },
-                {
-                    "type": "Link",
-                    "label": "Facebook",
-                    "altText": "Facebook",
-                    "url": "/https://www.facebook.com/WellsboroArtClub/",
-                    "showIcon": true,
-                    "icon": "facebook",
-                    "iconPosition": "left",
-                    "style": "secondary",
-                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
