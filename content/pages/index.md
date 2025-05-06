@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/The Wellsboro Art Club.jpg
       altText: The Wellsboro Art Club
       elementId: ''
       type: ImageBlock
