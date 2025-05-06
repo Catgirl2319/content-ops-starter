@@ -32,6 +32,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/image_2025-05-06_115516545.png
 slug: Donations
 isDraft: false
 seo:
