@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Posts",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -30,16 +30,16 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Donations",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/Donations",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Events",
             "altText": "Dropdown",
             "links": [
                 {
@@ -59,12 +59,15 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "type": "Link",
+                    "label": "Facebook",
+                    "altText": "Facebook",
+                    "url": "/https://www.facebook.com/WellsboroArtClub/",
+                    "showIcon": true,
+                    "icon": "facebook",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
@@ -75,7 +78,7 @@
         {
             "label": "Become Member",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://www.facebook.com/WellsboroArtClub/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -84,5 +87,6 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "The Wellsboro Art Club"
 }
