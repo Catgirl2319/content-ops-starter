@@ -1,18 +1,20 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/image_2025-05-06_112612788.png"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "About",
+            "url": "/About",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -71,20 +73,12 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Become Member",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
             "type": "Button"
         }
     ],
