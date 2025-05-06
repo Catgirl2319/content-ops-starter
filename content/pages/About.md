@@ -56,7 +56,7 @@ sections:
         subtitle: Registration to our Annual Plein Air Festival
         actions:
           - type: Button
-            label: Get started
+            label: Registrant
             altText: ''
             url: /
             showIcon: false
