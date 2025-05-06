@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Donate",
+            "label": "Donations",
             "altText": "Careers page",
             "url": "/Donations",
             "icon": "arrowRight",
