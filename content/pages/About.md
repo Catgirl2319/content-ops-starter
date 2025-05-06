@@ -15,7 +15,7 @@ sections:
     actions:
       - type: Button
         label: Our Facebook Page
-        url: /
+        url: '/https://www.facebook.com/WellsboroArtClub'
         icon: arrowRight
         iconPosition: right
         style: primary
