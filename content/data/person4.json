@@ -3,7 +3,6 @@
     "name": "Registration",
     "role": "Register for Plein Air",
     "image": {
-        "url": "/images/avatar4.svg",
         "altText": "Nina Mercado",
         "styles": {
             "self": {
