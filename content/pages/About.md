@@ -73,6 +73,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Registration
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
