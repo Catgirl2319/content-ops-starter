@@ -7,7 +7,7 @@ sections:
       text: "The Wellsboro\_ \_ Art Club"
       color: text-dark
       type: TitleBlock
-    subtitle: The Heart
+    subtitle: The heart of The Wellsboro Art Club
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
