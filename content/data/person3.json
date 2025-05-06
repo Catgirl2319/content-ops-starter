@@ -2,18 +2,6 @@
     "type": "Person",
     "name": "",
     "role": "",
-    "image": {
-        "altText": "Asher Schmitt",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
