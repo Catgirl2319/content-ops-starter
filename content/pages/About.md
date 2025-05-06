@@ -98,7 +98,7 @@ sections:
           - type: Button
             label: Facebook
             altText: ''
-            url: /
+            url: '/https://www.facebook.com/groups/1807989056040803/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
