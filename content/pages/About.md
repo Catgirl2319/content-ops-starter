@@ -54,13 +54,6 @@ sections:
       - type: FeaturedItem
         title: Registrant
         subtitle: Registration to our Annual Plein Air Festival
-        image:
-          type: ImageBlock
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
         actions:
           - type: Button
             label: Get started
