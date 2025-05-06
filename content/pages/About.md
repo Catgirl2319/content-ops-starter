@@ -1,6 +1,6 @@
 ---
 title: About
-slug: pricing
+slug: About
 sections:
   - title:
       text: Flexible Pricing
