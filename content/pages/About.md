@@ -14,7 +14,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: See open positions
+        label: Our Facebook Page
         url: /
         icon: arrowRight
         iconPosition: right
