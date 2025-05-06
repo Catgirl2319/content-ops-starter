@@ -9,7 +9,17 @@ sections:
       color: text-dark
     subtitle: To Donate either click on the link or scan the QR code
     text: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          /https://www.paypal.com/donate/?hosted_button_id=EDJZV9T2TMXTQ&fbclid=IwY2xjawKHDhFleHRuA2FlbQIxMABicmlkETFpYldsVVpQZ2dQaW5RTmx6AR6h_2POaLv9sVZ4lkKkMpTN-RMcauGKaPEelawl_P9KHA2VNZkiSX7rbkn1xg_aem_YZzPw-hz41boBvEdP46G6Q
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       type: Badge
       label: ''
