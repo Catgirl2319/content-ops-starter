@@ -93,7 +93,16 @@ sections:
       - type: FeaturedItem
         title: The Plein Air Painters
         subtitle: 'A Facebook page Dedicated to Plein Air '
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
     actions: []
     elementId: ''
