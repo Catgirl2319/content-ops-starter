@@ -45,7 +45,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Our Links
       color: text-dark
       styles:
         self:
