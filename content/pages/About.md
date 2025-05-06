@@ -77,7 +77,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Vendors Application
         subtitle: ''
         actions:
           - type: Button
