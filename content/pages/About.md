@@ -64,6 +64,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: Registration
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
