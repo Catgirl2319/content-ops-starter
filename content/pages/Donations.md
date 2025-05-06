@@ -27,7 +27,7 @@ sections:
     colors: bg-light-fg-dark
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/image_2025-05-06_115501138.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
