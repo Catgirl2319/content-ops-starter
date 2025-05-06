@@ -15,6 +15,14 @@ sections:
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
 slug: Donations
 isDraft: false
 seo:
