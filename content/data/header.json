@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Plein Air",
-                    "url": "/",
+                    "url": "/Plein Air",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
