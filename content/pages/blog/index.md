@@ -8,7 +8,7 @@ topSections:
       text: Featured Pictures
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: The Wellsboro Art Club!
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
