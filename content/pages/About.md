@@ -106,7 +106,7 @@ sections:
             elementId: ''
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Six Keys to Painting Trees with Character and Dimension
+        title: S
         tagline: ''
         subtitle: This is the item subtitle
         text: |
