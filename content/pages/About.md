@@ -107,7 +107,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Six Keys to Painting Trees with Character and Dimension
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
