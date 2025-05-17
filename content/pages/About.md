@@ -154,7 +154,7 @@ sections:
 slug: About
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: Our Vendors Application
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
