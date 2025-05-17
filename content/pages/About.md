@@ -201,6 +201,4 @@ sections:
       subtitle:
         textAlign: center
 slug: About
-seo:
-  type: Seo
 ---
