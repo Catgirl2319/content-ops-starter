@@ -83,7 +83,8 @@ sections:
           - type: Button
             label: Vendors
             altText: ''
-            url: ''
+            url: >-
+              https://create.netlify.com/studio/681a241279cc3700c35ea9b7#/Vendors%20Application/
             showIcon: false
             icon: arrowRight
             iconPosition: right
