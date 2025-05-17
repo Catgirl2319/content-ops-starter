@@ -21,8 +21,8 @@
             "type": "Link"
         },
         {
-            "label": "Posts",
-            "altText": "Blog",
+            "label": "Pictures",
+            "altText": "Pictures",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",

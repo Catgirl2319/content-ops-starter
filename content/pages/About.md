@@ -105,6 +105,38 @@ sections:
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Six Keys to Painting Trees with Character and Dimension
+        tagline: ''
+        subtitle: Their Info Page!
+        text: ''
+        image:
+          type: ImageBlock
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Six Keys
+            altText: ''
+            url: >-
+              /https://ac.streamlinepublishing.com/lt.php?x=3DZy~GDIKXGd5aJAyAA4V.Nw1aJTjALxlhthkaQ4U3ScDKF70Ey.1.Fy1HAmmN~3leo3bHMWJXKd6H7.
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     actions: []
     elementId: Our Links
     variant: three-col-grid
