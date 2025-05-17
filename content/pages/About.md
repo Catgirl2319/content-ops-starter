@@ -152,7 +152,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Our Sponsors
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
