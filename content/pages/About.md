@@ -116,7 +116,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              /https://ac.streamlinepublishing.com/lt.php?x=3DZy~GDIKXGd5aJAyAA4V.Nw1aJTjALxlhthkaQ4U3ScDKF70Ey.1.Fy1HAmmN~3leo3bHMWJXKd6H7.
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
