@@ -109,8 +109,7 @@ sections:
         title: Six Keys to Painting Trees with Character and Dimension
         tagline: ''
         subtitle: Their Info Page!
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           altText: Placeholder text
