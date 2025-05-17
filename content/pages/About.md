@@ -155,6 +155,6 @@ slug: About
 seo:
   type: Seo
   metaTitle: Our Vendors Application
-  metaDescription: This is the careers page built with Netlify.
+  metaDescription: This is The Wellsboro Art Club's Annual Plein Air Vendors Application form!
   metaTags: []
 ---
