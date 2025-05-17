@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: The Annual Plein Air Registration Form
+      text: "The Annual Plein Air\_ \_ \_ \_ \_Registration Form"
       color: text-dark
       styles:
         self:
