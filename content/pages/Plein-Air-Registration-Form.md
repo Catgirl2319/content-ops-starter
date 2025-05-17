@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Our Vendors Application
+      text: Our Annual Plein Air Registration Form
       color: text-dark
       styles:
         self:
