@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Our Vendors Application
       color: text-dark
       styles:
         self:
