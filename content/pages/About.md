@@ -83,7 +83,7 @@ sections:
           - type: Button
             label: Vendors
             altText: ''
-            url: /
+            url: /Vendors Application
             showIcon: false
             icon: arrowRight
             iconPosition: right
