@@ -57,7 +57,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/image_2025-05-22_110011239.png
-          altText: Faux Fur Throw
+          altText: to Painting Trees with Character and Dimension
           elementId: ''
           styles:
             self:
