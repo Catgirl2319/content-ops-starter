@@ -23,7 +23,6 @@
     "bio": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/registration 2.PNG",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
