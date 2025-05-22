@@ -64,7 +64,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Six Keys to Painting Trees with Character and Dimension
+            label: Six Keys
             altText: ''
             url: >-
               /https://ac.streamlinepublishing.com/lt.php?x=3DZy~GDIKXGd5aJAyAA4V.Nw1aJTjALxlhthkaQ4U3ScDKF70Ey.1.Fy1HAmmN~3leo3bHMWJXKd6H7.
