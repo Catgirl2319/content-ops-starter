@@ -58,7 +58,7 @@ sections:
           - type: Button
             label: Register
             altText: ''
-            url: /Plein Air Registration Form
+            url: /Registration Form
             showIcon: false
             icon: arrowRight
             iconPosition: right
