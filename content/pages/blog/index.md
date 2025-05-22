@@ -31,6 +31,7 @@ bottomSections:
       - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
+      - content/data/Picture.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
