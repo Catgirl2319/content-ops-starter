@@ -52,6 +52,20 @@ sections:
             elementId: ''
         colors: bg-light-fg-dark
       - type: FeaturedItem
+        title: The Plein Air Painters of Pennsylvania
+        subtitle: 'A Facebook page Dedicated to Plein Air '
+        actions:
+          - type: Button
+            label: Facebook
+            altText: ''
+            url: '/https://www.facebook.com/groups/1807989056040803/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
         title: To Painting Trees with Character and Dimension
         subtitle: ''
         image:
@@ -85,20 +99,6 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-      - type: FeaturedItem
-        title: The Plein Air Painters of Pennsylvania
-        subtitle: 'A Facebook page Dedicated to Plein Air '
-        actions:
-          - type: Button
-            label: Facebook
-            altText: ''
-            url: '/https://www.facebook.com/groups/1807989056040803/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-light-fg-dark
     actions: []
     elementId: Our Links
     variant: three-col-grid
