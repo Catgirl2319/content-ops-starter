@@ -52,7 +52,7 @@ sections:
             elementId: ''
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Trees
+        title: To Painting Trees with Character and Dimension
         subtitle: ''
         image:
           type: ImageBlock
