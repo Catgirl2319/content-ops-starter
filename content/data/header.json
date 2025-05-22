@@ -67,7 +67,7 @@
         {
             "label": "Become Member",
             "altText": "Sign up",
-            "url": "https://www.facebook.com/WellsboroArtClub/",
+            "url": "/Become a Member",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
