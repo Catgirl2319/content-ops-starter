@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Become a Member
         altText: ''
-        url: /
+        url: /Become a Member
         showIcon: false
         icon: arrowRight
         iconPosition: right
