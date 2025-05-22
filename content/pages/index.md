@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "The Wellsboro\_ \_ Art Club"
+      text: The Wellsboro Art Club
       color: text-dark
       type: TitleBlock
     subtitle: The heart of The Wellsboro Art Club
